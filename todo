@@ -1,0 +1,4 @@
+For all crypt data , I will created hash 
+
+Pour chaque element crypter , je creer un hash complet contenant les données recu
+Ensuite je stock ce hash + la clé dans une base de données mysql

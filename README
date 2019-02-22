@@ -3,3 +3,9 @@ Simple Descrypt and Encrypt function using cryptography using Flash and Flash-RE
 
 Install redis and some dependencies
 
+Action => POST
+Routes => {
+    "/" ,
+    "/decrypt"
+}
+I use redis to save key.
